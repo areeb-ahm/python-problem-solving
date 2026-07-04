@@ -1,0 +1,9 @@
+# Database Settings
+DB_HOST=localhost
+DB_PORT=5432
+
+# Application Settings
+DEBUG=True
+SECRET_KEY=supersecret123
+
+# End of file
